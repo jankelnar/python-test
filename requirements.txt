@@ -8,5 +8,5 @@ tensorboardX
 scikit_image
 matplotlib
 Wheel
-torch==1.12.0
+torch==1.11.0+cpu
 
