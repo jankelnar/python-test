@@ -8,5 +8,4 @@ tensorboardX
 scikit_image
 matplotlib
 Wheel
-torch
-torchvision
+
