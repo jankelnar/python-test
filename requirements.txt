@@ -7,3 +7,4 @@ easydict
 tensorboardX
 scikit_image
 matplotlib
+torch
