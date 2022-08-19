@@ -5,3 +5,5 @@ Pillow
 tqdm
 easydict
 tensorboardX
+scikit_image
+matplotlib
