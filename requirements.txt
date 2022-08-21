@@ -7,5 +7,5 @@ easydict
 tensorboardX
 scikit_image
 matplotlib
-torch==1.9.1+cpu -f https://download.pytorch.org/whl/torch_stable.html
+torch==1.9.1+cpu -f https://data.pyg.org/whl/
 
