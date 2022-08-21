@@ -1,3 +1,4 @@
+-f https://download.pytorch.org/whl/torch_stable.html
 Flask==2.0.2
 numpy
 pandas
@@ -7,4 +8,4 @@ easydict
 tensorboardX
 scikit_image
 matplotlib
-torch==1.5.0+cpu
+torch==1.8.1+cpu
